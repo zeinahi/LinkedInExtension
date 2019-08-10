@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "<first-exension>",
+    "version": "1.0",
+
+    "content_scripts": [
+        {
+        "matches": ["*://*.linkedin.com/*"],
+        "js": ["first-extension.js"]
+        }
+    ],
+
+    "web_accessible_resources":["images/kitten.jpg"]
+}
