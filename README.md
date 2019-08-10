@@ -6,6 +6,5 @@ The `master` branch contains the template and the other branches contain sample 
 
 Presented at Codeland 2019 by Yechiel Kalmenson
 
-Feel free to follow me on Twitter at [@yechielk](https://twitter.com/yechielk)
+Feel free to follow him on Twitter at [@yechielk](https://twitter.com/yechielk)
 
-Questions? Comments? I'd love to hear them at hello@yechiel.me
